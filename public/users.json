@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "firstName": "Alperen",
+      "lastName": "ÜLKÜ",
+      "email": "alperenulku@hotmail.com",
+      "password": "123456",
+      "phone": "05395622171",
+      "isAdmin": true
+    },
+    {
+        "id": 2,
+        "firstName": "Ekrem Oğuz",
+        "lastName": "ŞAHİN",
+        "email": "ekrem@hotmail.com",
+        "password": "123456",
+        "phone": "05456535633",
+        "isAdmin": false
+      },
+      {
+        "id": 3,
+        "firstName": "Emin",
+        "lastName": "TOZLU",
+        "email": "etozlu@hotmail.com",
+        "password": "123456",
+        "phone": "05456784565",
+        "isAdmin": false
+      },
+      {
+        "id": 4,
+        "firstName": "Fatma",
+        "lastName": "Gürok",
+        "email": "fatma@hotmail.com",
+        "password": "123456",
+        "phone": "05456745565",
+        "isAdmin": false
+      },
+      {
+        "id": 5,
+        "firstName": "Ahmet",
+        "lastName": "Çelebi",
+        "email": "ahmet@hotmail.com",
+        "password": "123456",
+        "phone": "05456125565",
+        "isAdmin": false
+      },
+      {
+        "id": 6,
+        "firstName": "Necmi",
+        "lastName": "Kedi",
+        "email": "nk123@hotmail.com",
+        "password": "123456",
+        "phone": "05123445565",
+        "isAdmin": false
+      },
+      {
+        "id": 7,
+        "firstName": "Birol",
+        "lastName": "Güçlü",
+        "email": "birol@hotmail.com",
+        "password": "123456",
+        "phone": "05451245565",
+        "isAdmin": false
+      }
+  ]

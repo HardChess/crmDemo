@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "meetingId": 1,
+      "customerId": 2,
+      "name": "Tuğçe Coşar",
+      "startTime": "12.07.2020 13:30",
+      "endTime": "",
+      "desc": "Kalite standartlayla alakalı"
+    },
+    {
+        "id": 2,
+        "meetingId": 2,
+        "customerId": 3,
+        "name": "Ayça Yörük",
+        "startTime": "13.07.2020 14:40",
+        "endTime": "",
+        "desc": "Müşteri talebi"
+      },
+      {
+        "id": 3,
+        "meetingId": 3,
+        "customerId": 1,
+        "name": "Asena Akgül",
+        "startTime": "12.07.2020 10:00",
+        "endTime": "",
+        "desc": "İş planı hakkında"
+      },
+      {
+        "id": 4,
+        "meetingId": 4,
+        "customerId": 1,
+        "name": "Asena Akgül",
+        "startTime": "12.07.2020 10:00",
+        "endTime": "",
+        "desc": "Ertelenmiş görüşme"
+      },
+      {
+        "id": 5,
+        "meetingId": 5,
+        "customerId": 14,
+        "name": "Alex de Souza",
+        "startTime": "14.07.2020 10:00",
+        "endTime": "",
+        "desc": "Futbol hakkında"
+      },
+      {
+        "id": 6,
+        "meetingId": 6,
+        "customerId": 7,
+        "name": "Mehmet Akgül",
+        "startTime": "17.07.2020 15:00",
+        "endTime": "",
+        "desc": "güncel bilgiler"
+      },
+      {
+        "id": 7,
+        "meetingId": 7,
+        "customerId": 1,
+        "name": "Asena Akgül",
+        "startTime": "17.07.2020 15:00",
+        "endTime": "",
+        "desc": "güncel bilgiler"
+      }
+    
+  ]

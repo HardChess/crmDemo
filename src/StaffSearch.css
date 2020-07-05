@@ -1,0 +1,21 @@
+
+.list li span{
+    display: block;
+
+}
+
+.list li span.name{
+    float: left;
+    
+}
+
+.list li span.phone{
+    float: right;
+    
+}
+
+.list li span.clearFix{
+    clear: both;
+    
+}
+

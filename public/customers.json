@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Asena Akgül",
+      "email": "asena@hotmail.com",
+      "phone": "05395212171"
+    },
+    {
+        "id": 2,
+        "name": "Tuğçe Coşar",
+        "email": "tugce@hotmail.com",
+        "phone": "05384722171"
+      },
+      {
+        "id": 3,
+        "name": "Ayça Yörük",
+        "email": "ayoruk@hotmail.com",
+        "phone": "0539342381"
+      },
+      {
+        "id": 4,
+        "name": "Yeşim Deli",
+        "email": "yesim@hotmail.com",
+        "phone": "0532362381"
+      },
+      {
+        "id": 5,
+        "name": "Bahtiyar Özdere",
+        "email": "bahtiyar@hotmail.com",
+        "phone": "0539562431"
+      },
+      {
+        "id": 6,
+        "name": "Bahtiyar Güçlü",
+        "email": "bahtiyarad@hotmail.com",
+        "phone": "0533462431"
+      },
+      {
+        "id": 7,
+        "name": "Mehmet Akgül",
+        "email": "mehmet@hotmail.com",
+        "phone": "0535462431"
+      },
+      {
+        "id": 8,
+        "name": "Tuğçe Uludere",
+        "email": "tuludere@hotmail.com",
+        "phone": "0534322431"
+      },
+      {
+        "id": 9,
+        "name": "Ayça Şaşkın",
+        "email": "aycasaskin@hotmail.com",
+        "phone": "0539553431"
+      },
+      {
+        "id": 10,
+        "name": "Necip Fazıl",
+        "email": "necipss@hotmail.com",
+        "phone": "0533462431"
+      },
+      {
+        "id": 11,
+        "name": "Zeynep Aslan",
+        "email": "zeynepppp@hotmail.com",
+        "phone": "0539563431"
+      },
+      {
+        "id": 12,
+        "name": "Jale Özdere",
+        "email": "jale@hotmail.com",
+        "phone": "0539262431"
+      },
+      {
+        "id": 13,
+        "name": "Hale Kale",
+        "email": "hakale@hotmail.com",
+        "phone": "0539122431"
+      },
+      {
+        "id": 14,
+        "name": "Alex de Souza",
+        "email": "alex@hotmail.com",
+        "phone": "0533462431"
+      }
+  ]

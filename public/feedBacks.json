@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "meetingId": 1,
+      "favors": 5,
+      "comment": "harika bir görüşmeydi"
+    },
+    {
+        "id": 2,
+        "meetingId": 2,
+        "favors": 3,
+        "comment": "fena değil"
+      },
+      {
+        "id": 3,
+        "meetingId": 3,
+        "favors": 1,
+        "comment": "yardımcı olunmadı malesef."
+      }
+  ]
